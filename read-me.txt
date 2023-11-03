@@ -1,1 +1,13 @@
 Citing other people code should be placed here
+
+Explainer to the project 
+
+CRUD - Is key for the (for people to save their own markers on the map and save to a JSON bin)  
+the user can add in data that is specific to them i.e. home or specific markers that they want to remember
+
+Target Audience group 
+
+Primary need - 
+Pain point - 
+
+Solution - 
