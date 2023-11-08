@@ -12,9 +12,8 @@ They will also be able to save the tags that they have searched for.
 CRUD - Is key for the (for people to save their own markers on the map and save to a JSON bin)  
 the user can add in data that is specific to them i.e. home or specific markers that they want to remember
 
-Target Audience group 
-
-Primary need - 
-Pain point - 
-
-Solution - 
+Target Audience group - Anyone 
+Primary need - When there is a specific need to find a particular service (e.g. moneychanger or hair salon). The user
+will be able to find the required service
+Pain point - Time is wasted when looking for a particular service by walking around the neghbourhood
+Solution - Using a map with a search function, the user will be able to find the desired service for personal use. 
