@@ -20,3 +20,5 @@ Solution - Using a map with a search function, the user will be able to find the
 
 To run the server key in 'python3 -m http.server' into the terminal. Make sure that you are in the correct directory before opening the server
 To stop the server, enter 'control + c' into the termianal (^c)
+
+The app needs to be mobile responsive
